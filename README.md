@@ -1,4 +1,4 @@
-## 👋 Hello, I'm [Your Name]
+## 👋 Hello, I'm SSENGENDO JOHNMARY
 
 <div align="center">
   
@@ -12,14 +12,14 @@
 
 ## 💫 About Me
 
-Software developer passionate about creating elegant solutions to complex problems. I love exploring new technologies and contributing to open source projects. When I'm not coding, you'll find me [your hobbies - hiking/reading/gaming/etc].
+Software developer passionate about creating elegant solutions to complex problems. I love exploring new technologies and contributing to open source projects. When I'm not coding, you'll find me doing something in linux 😃
 
-- 🔭 I'm currently working on **[Your Current Project]**
-- 🌱 I'm currently learning **[Technology/Language You're Learning]**
-- 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **[Your Areas of Expertise]**
-- 📫 How to reach me: **youremail@example.com**
-- ⚡ Fun fact: **[Interesting Fact About Yourself]**
+- 🔭 I'm currently working on **JOB finding mobile application**
+- 🌱 I'm currently learning **Laravel**
+- 👯 I'm looking to collaborate on **Laravel projects**
+- 💬 Ask me about me **Linux / Laravel / Python**
+- 📫 How to reach me: **mrrighteousdev@gmail.com**
+- ⚡ Fun fact: **I don't know what to write here**
 
 ## 🛠️ Tech Stack
 
@@ -41,16 +41,13 @@ Software developer passionate about creating elegant solutions to complex proble
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Righteousdev&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?usMr-Righteousdev&theme=radical" alt="GitHub Streak" />
 </div>
 
 ## 🏆 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#123](https://github.com/yourusername/repo/pull/123) in [yourusername/repo](https://github.com/yourusername/repo)
-2. 💪 Opened PR [#456](https://github.com/yourusername/repo/pull/456) in [yourusername/repo](https://github.com/yourusername/repo)
-3. ⭐ Starred [organization/project](https://github.com/organization/project)
 <!--END_SECTION:activity-->
 
 ## 🔥 Featured Projects
@@ -79,6 +76,6 @@ Software developer passionate about creating elegant solutions to complex proble
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Mr-Righteousdev&color=blueviolet" alt="Profile Views" />
   <p>If you found value in something I've created, please feel free to give a ⭐️!</p>
 </div>
