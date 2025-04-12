@@ -1,4 +1,8 @@
-## 👋 Hello, I'm SSENGENDO JOHNMARY
+<h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+SSENGENDO+JOHNMARY ....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 <div align="center">
 
@@ -53,11 +57,11 @@ Software developer passionate about creating elegant solutions to complex proble
 ## 🔥 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Mr-Righteousdev/jenn-movies-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Righteousdev&repo=jenn-movies-bot&theme=radical" />
+  <a href="https://github.com/yourusername/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical" />
   </a>
-  <a href="https://github.com/Mr-Righteousdev/Mr-Righteousdev.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Righteousdev&repo=Mr-Righteousdev.github.io&theme=radical" />
+  <a href="https://github.com/yourusername/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical" />
   </a>
 </div>
 
@@ -70,6 +74,9 @@ Software developer passionate about creating elegant solutions to complex proble
 - [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
 - [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
 <!-- BLOG-POST-LIST:END -->
+
+## 🏆 My GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mr-Righteousdev&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🎧 What I'm Listening To
 
