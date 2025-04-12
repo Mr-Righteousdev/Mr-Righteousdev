@@ -42,7 +42,7 @@ Software developer passionate about creating elegant solutions to complex proble
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mr-Righteousdev&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?usMr-Righteousdev&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Mr-Righteousdev&theme=radical" alt="GitHub Streak" />
 </div>
 
 ## 🏆 Recent GitHub Activity
