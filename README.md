@@ -68,7 +68,7 @@ Software developer passionate about creating elegant solutions to complex proble
 
 ## 🎧 What I'm Listening To
 
-[![Spotify](https://novatorem-khaki-ten.vercel.app/api/spotify)](https://open.spotify.com/user/mrrighteousdev)
+[![Spotify](https://novatorem-khaki-ten.vercel.app/api/spotify)](https://open.spotify.com/user/Mr-Righteousdev)
 
 ---
 
