@@ -1,8 +1,8 @@
 ## 👋 Hello, I'm SSENGENDO JOHNMARY
 
 <div align="center">
-  
-![Profile Banner](https://via.placeholder.com/850x250)
+
+![Header](https://capsule-render.vercel.app/api?type=waveAnimation&color=gradient&height=300&section=header&text=Hi%20There!&fontSize=90)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourusername)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
