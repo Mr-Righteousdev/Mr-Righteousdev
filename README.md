@@ -64,14 +64,11 @@ Software developer passionate about creating elegant solutions to complex proble
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Blog Post Title 1](https://yourblog.com/post1)
-- [Blog Post Title 2](https://yourblog.com/post2)
-- [Blog Post Title 3](https://yourblog.com/post3)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎧 What I'm Listening To
 
-[![Spotify](https://novatorem-khaki-ten.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
+[![Spotify](https://novatorem-khaki-ten.vercel.app/api/spotify)](https://open.spotify.com/user/mrrighteousdev)
 
 ---
 
