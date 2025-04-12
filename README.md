@@ -53,11 +53,11 @@ Software developer passionate about creating elegant solutions to complex proble
 ## 🔥 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical" />
+  <a href="https://github.com/Mr-Righteousdev/jenn-movies-bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Righteousdev&repo=jenn-movies-bot&theme=radical" />
   </a>
-  <a href="https://github.com/yourusername/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical" />
+  <a href="https://github.com/Mr-Righteousdev/Mr-Righteousdev.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Righteousdev&repo=Mr-Righteousdev.github.io&theme=radical" />
   </a>
 </div>
 
