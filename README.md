@@ -52,6 +52,7 @@ Software developer passionate about creating elegant solutions to complex proble
 ## 🏆 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#3](https://github.com/laravelcommunityuganda/lcu-livewire/pull/3) in [laravelcommunityuganda/lcu-livewire](https://github.com/laravelcommunityuganda/lcu-livewire)
 <!--END_SECTION:activity-->
 
 ## 🔥 Featured Projects
