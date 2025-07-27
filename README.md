@@ -52,7 +52,7 @@ Software developer passionate about creating elegant solutions to complex proble
 ## 🏆 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/laravelcommunityuganda/lcu-livewire/pull/7) in [laravelcommunityuganda/lcu-livewire](https://github.com/laravelcommunityuganda/lcu-livewire)
+1. 🗣 Commented on [#32](https://github.com/mortenebak/tallstarter/issues/32#issuecomment-3124546944) in [mortenebak/tallstarter](https://github.com/mortenebak/tallstarter)
 <!--END_SECTION:activity-->
 
 ## 🔥 Featured Projects
