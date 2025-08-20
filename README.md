@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waveAnimation&color=gradient&height=300&section=header&text=Welcome!&fontSize=90&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome!&fontSize=90&animation=fadeIn)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
