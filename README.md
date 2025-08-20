@@ -126,9 +126,9 @@ const ssengendo = {
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#32](https://github.com/mortenebak/tallstarter/issues/32#issuecomment-3124546944) in [mortenebak/tallstarter](https://github.com/mortenebak/tallstarter)
-2. ⭐ Starred [laravel/framework](https://github.com/laravel/framework)
-3. 🔀 Opened a PR in [opensource-project/repo](https://github.com/opensource-project/repo)
-4. 📝 Created a new repository [Mr-Righteousdev/awesome-laravel-tips](https://github.com/Mr-Righteousdev/awesome-laravel-tips)
+2. 🗣 Commented on [#32](https://github.com/mortenebak/tallstarter/issues/32#issuecomment-3124546824) in [mortenebak/tallstarter](https://github.com/mortenebak/tallstarter)
+3. 🔒 Closed issue [#32](https://github.com/mortenebak/tallstarter/issues/32) in [mortenebak/tallstarter](https://github.com/mortenebak/tallstarter)
+4. ❗ Opened issue [#32](https://github.com/mortenebak/tallstarter/issues/32) in [mortenebak/tallstarter](https://github.com/mortenebak/tallstarter)
 <!--END_SECTION:activity-->
 
 ## 🎯 2024 Goals
