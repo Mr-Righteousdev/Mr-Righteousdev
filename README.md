@@ -106,10 +106,10 @@ const ssengendo = {
 <div align="center">
 
 <a href="https://github.com/Mr-Righteousdev/joblynk">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Righteousdev&repo=job-finder-app&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Righteousdev&repo=joblynk&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/Mr-Righteousdev/favourite-poultry">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Righteousdev&repo=laravel-portfolio&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Mr-Righteousdev/prop-saas">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mr-Righteousdev&repo=prop-saas&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
