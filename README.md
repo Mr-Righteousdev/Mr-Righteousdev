@@ -125,10 +125,10 @@ const ssengendo = {
 ## 🏅 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/mortenebak/tallstarter/issues/32#issuecomment-3124546944) in [mortenebak/tallstarter](https://github.com/mortenebak/tallstarter)
-2. 🗣 Commented on [#32](https://github.com/mortenebak/tallstarter/issues/32#issuecomment-3124546824) in [mortenebak/tallstarter](https://github.com/mortenebak/tallstarter)
-3. 🔒 Closed issue [#32](https://github.com/mortenebak/tallstarter/issues/32) in [mortenebak/tallstarter](https://github.com/mortenebak/tallstarter)
-4. ❗ Opened issue [#32](https://github.com/mortenebak/tallstarter/issues/32) in [mortenebak/tallstarter](https://github.com/mortenebak/tallstarter)
+1. ❗ Opened issue [#3](https://github.com/yogijowo/laravel12-react-starterkit/issues/3) in [yogijowo/laravel12-react-starterkit](https://github.com/yogijowo/laravel12-react-starterkit)
+2. 🗣 Commented on [#32](https://github.com/mortenebak/tallstarter/issues/32#issuecomment-3124546944) in [mortenebak/tallstarter](https://github.com/mortenebak/tallstarter)
+3. 🗣 Commented on [#32](https://github.com/mortenebak/tallstarter/issues/32#issuecomment-3124546824) in [mortenebak/tallstarter](https://github.com/mortenebak/tallstarter)
+4. 🔒 Closed issue [#32](https://github.com/mortenebak/tallstarter/issues/32) in [mortenebak/tallstarter](https://github.com/mortenebak/tallstarter)
 <!--END_SECTION:activity-->
 
 ## 🎯 2024 Goals
