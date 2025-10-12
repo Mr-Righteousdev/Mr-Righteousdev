@@ -125,7 +125,7 @@ const ssengendo = {
 ## 🏅 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/yogijowo/laravel12-react-starterkit/issues/3) in [yogijowo/laravel12-react-starterkit](https://github.com/yogijowo/laravel12-react-starterkit)
+1. ❗ Opened issue [#1](https://github.com/TatambukaIanSmith/FinalYearProject/issues/1) in [TatambukaIanSmith/FinalYearProject](https://github.com/TatambukaIanSmith/FinalYearProject)
 2. 🗣 Commented on [#32](https://github.com/mortenebak/tallstarter/issues/32#issuecomment-3124546944) in [mortenebak/tallstarter](https://github.com/mortenebak/tallstarter)
 3. 🗣 Commented on [#32](https://github.com/mortenebak/tallstarter/issues/32#issuecomment-3124546824) in [mortenebak/tallstarter](https://github.com/mortenebak/tallstarter)
 4. 🔒 Closed issue [#32](https://github.com/mortenebak/tallstarter/issues/32) in [mortenebak/tallstarter](https://github.com/mortenebak/tallstarter)
