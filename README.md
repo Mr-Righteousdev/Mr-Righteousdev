@@ -125,7 +125,7 @@ const ssengendo = {
 ## 🏅 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/TatambukaIanSmith/FinalYearProject/issues/1) in [TatambukaIanSmith/FinalYearProject](https://github.com/TatambukaIanSmith/FinalYearProject)
+1. ❗ Opened issue [#2](https://github.com/laravelcommunityuganda/communityweb/issues/2) in [laravelcommunityuganda/communityweb](https://github.com/laravelcommunityuganda/communityweb)
 2. 🗣 Commented on [#32](https://github.com/mortenebak/tallstarter/issues/32#issuecomment-3124546944) in [mortenebak/tallstarter](https://github.com/mortenebak/tallstarter)
 3. 🗣 Commented on [#32](https://github.com/mortenebak/tallstarter/issues/32#issuecomment-3124546824) in [mortenebak/tallstarter](https://github.com/mortenebak/tallstarter)
 4. 🔒 Closed issue [#32](https://github.com/mortenebak/tallstarter/issues/32) in [mortenebak/tallstarter](https://github.com/mortenebak/tallstarter)
