@@ -125,8 +125,8 @@ const ssengendo = {
 ## 🏅 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Mr-Righteousdev/slau-csic/pull/1#issuecomment-4185161194) in [Mr-Righteousdev/slau-csic](https://github.com/Mr-Righteousdev/slau-csic)
-2. 🗣 Commented on [#32](https://github.com/mortenebak/tallstarter/issues/32#issuecomment-3124546944) in [mortenebak/tallstarter](https://github.com/mortenebak/tallstarter)
+1. 🎉 Merged PR [#2](https://github.com/Mr-Righteousdev/slau-csic/pull/2) in [Mr-Righteousdev/slau-csic](https://github.com/Mr-Righteousdev/slau-csic)
+2. 🗣 Commented on [#1](https://github.com/Mr-Righteousdev/slau-csic/pull/1#issuecomment-4185161194) in [Mr-Righteousdev/slau-csic](https://github.com/Mr-Righteousdev/slau-csic)
 3. 🗣 Commented on [#32](https://github.com/mortenebak/tallstarter/issues/32#issuecomment-3124546824) in [mortenebak/tallstarter](https://github.com/mortenebak/tallstarter)
 4. 🔒 Closed issue [#32](https://github.com/mortenebak/tallstarter/issues/32) in [mortenebak/tallstarter](https://github.com/mortenebak/tallstarter)
 <!--END_SECTION:activity-->
