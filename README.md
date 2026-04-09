@@ -125,10 +125,10 @@ const ssengendo = {
 ## 🏅 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/Mr-Righteousdev/slau-csic/pull/4) in [Mr-Righteousdev/slau-csic](https://github.com/Mr-Righteousdev/slau-csic)
-2. 🎉 Merged PR [#3](https://github.com/Mr-Righteousdev/slau-csic/pull/3) in [Mr-Righteousdev/slau-csic](https://github.com/Mr-Righteousdev/slau-csic)
-3. 💪 Opened PR [#3](https://github.com/Mr-Righteousdev/slau-csic/pull/3) in [Mr-Righteousdev/slau-csic](https://github.com/Mr-Righteousdev/slau-csic)
-4. 🎉 Merged PR [#2](https://github.com/Mr-Righteousdev/slau-csic/pull/2) in [Mr-Righteousdev/slau-csic](https://github.com/Mr-Righteousdev/slau-csic)
+1. 🗣 Commented on [#6](https://github.com/Mr-Righteousdev/slau-csic/pull/6#issuecomment-4216938861) in [Mr-Righteousdev/slau-csic](https://github.com/Mr-Righteousdev/slau-csic)
+2. ❌ Closed PR [#5](https://github.com/Mr-Righteousdev/slau-csic/pull/5) in [Mr-Righteousdev/slau-csic](https://github.com/Mr-Righteousdev/slau-csic)
+3. ❌ Closed PR [#4](https://github.com/Mr-Righteousdev/slau-csic/pull/4) in [Mr-Righteousdev/slau-csic](https://github.com/Mr-Righteousdev/slau-csic)
+4. 🎉 Merged PR [#3](https://github.com/Mr-Righteousdev/slau-csic/pull/3) in [Mr-Righteousdev/slau-csic](https://github.com/Mr-Righteousdev/slau-csic)
 <!--END_SECTION:activity-->
 
 ## 🎯 2024 Goals
