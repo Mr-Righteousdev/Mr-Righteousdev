@@ -125,10 +125,10 @@ const ssengendo = {
 ## 🏅 Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/Scic-space/slau-csic/pull/2) in [Scic-space/slau-csic](https://github.com/Scic-space/slau-csic)
-2. 🎉 Merged PR [#4](https://github.com/Scic-space/slau-csic/pull/4) in [Scic-space/slau-csic](https://github.com/Scic-space/slau-csic)
-3. 💪 Opened PR [#4](https://github.com/Scic-space/slau-csic/pull/4) in [Scic-space/slau-csic](https://github.com/Scic-space/slau-csic)
-4. 💪 Opened PR [#2](https://github.com/Scic-space/slau-csic/pull/2) in [Scic-space/slau-csic](https://github.com/Scic-space/slau-csic)
+1. 🎉 Merged PR [#6](https://github.com/Scic-space/slau-csic/pull/6) in [Scic-space/slau-csic](https://github.com/Scic-space/slau-csic)
+2. 💪 Opened PR [#6](https://github.com/Scic-space/slau-csic/pull/6) in [Scic-space/slau-csic](https://github.com/Scic-space/slau-csic)
+3. ❌ Closed PR [#2](https://github.com/Scic-space/slau-csic/pull/2) in [Scic-space/slau-csic](https://github.com/Scic-space/slau-csic)
+4. 🎉 Merged PR [#4](https://github.com/Scic-space/slau-csic/pull/4) in [Scic-space/slau-csic](https://github.com/Scic-space/slau-csic)
 <!--END_SECTION:activity-->
 
 ## 🎯 2024 Goals
